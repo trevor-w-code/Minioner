@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trevo\\source\\repos\\Minioner\\Minioner\\Minioner.csproj": {}
+    "C:\\Users\\trevo\\Source\\Repos\\Minioner\\Minioner\\Minioner\\Minioner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trevo\\source\\repos\\Minioner\\Minioner\\Minioner.csproj": {
+    "C:\\Users\\trevo\\Source\\Repos\\Minioner\\Minioner\\Minioner\\Minioner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trevo\\source\\repos\\Minioner\\Minioner\\Minioner.csproj",
+        "projectUniqueName": "C:\\Users\\trevo\\Source\\Repos\\Minioner\\Minioner\\Minioner\\Minioner.csproj",
         "projectName": "Minioner",
-        "projectPath": "C:\\Users\\trevo\\source\\repos\\Minioner\\Minioner\\Minioner.csproj",
+        "projectPath": "C:\\Users\\trevo\\Source\\Repos\\Minioner\\Minioner\\Minioner\\Minioner.csproj",
         "packagesPath": "C:\\Users\\trevo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trevo\\source\\repos\\Minioner\\Minioner\\obj\\",
+        "outputPath": "C:\\Users\\trevo\\Source\\Repos\\Minioner\\Minioner\\Minioner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

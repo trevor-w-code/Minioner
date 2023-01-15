@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQpTbMwebbIPYIMCDZcrLDnXMV27jf86Os9Yz+VH9cHoEg3K6KW80pMN+n9Gl2rJMWwu+fuh0jVmB/U2k7Eu+w==",
+  "dgSpecHash": "IJ3lsqfpVfo01bFom9L9ehDL+1eJabd6U1CTfs5S5mjkiaSFb5yfHRV6dmoWqfW32O+hW8JhLc+0p0eS8Vre1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trevo\\source\\repos\\Minioner\\Minioner\\Minioner.csproj",
+  "projectFilePath": "C:\\Users\\trevo\\Source\\Repos\\Minioner\\Minioner\\Minioner\\Minioner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trevo\\.nuget\\packages\\discord.net\\3.3.0\\discord.net.3.3.0.nupkg.sha512",
     "C:\\Users\\trevo\\.nuget\\packages\\discord.net.commands\\3.3.0\\discord.net.commands.3.3.0.nupkg.sha512",
